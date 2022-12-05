@@ -1,0 +1,123 @@
+.wrapper {
+    width: 100%;
+    position: fixed;
+    box-shadow: var(--shadow);
+    z-index: 50;
+    background-color: var(--header-bg);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}
+
+.container {
+    height: var(--header-height);
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftSide {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: calc(var(--header-height) - 1rem);
+    margin-right: 0.75rem;
+}
+
+.rightSide {
+    flex: 1;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: right;
+    align-items: center;
+}
+
+.rightSide > *:not(:first-child) {
+    margin-left: 0.875rem;
+}
+
+.avt {
+    height: calc(var(--header-height) - 1.25rem);
+    border: 2px solid var(--primary-text);
+    border-radius: 50%;
+}
+
+.btnLogin {
+    padding: 5px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--primary-text);
+    border: 1px solid var(--primary-text);
+    border-radius: 120px;
+}
+
+.btnLogin:hover {
+    color: var(--primary-bg);
+    background-color: var(--primary-text);
+    box-shadow: var(--hover-shadow)
+}
+
+/* Navigation ======================*/
+.navLink {
+    font-size: 1.125rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--primary-text);
+    padding: 0.25rem 0.375rem;
+    margin: 0 0.25rem;
+    border-radius: 120px;
+}
+
+.navLink:hover , .btn:hover {
+    color: var(--third-text);
+    background-color: var(--primary-bg);
+    box-shadow: var(--hover-shadow)
+}
+
+.navMenu {
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 2px solid var(--secondary-bg);
+}
+
+.popper {
+    background-color: var(--primary-bg);
+    padding: 0.25rem 0;
+    border-radius: 0.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+
+/*  */
+.adminHeader {
+    top: 0;
+    right: 0;
+    left: 260px;
+    position: fixed;
+    display: flex;
+    justify-content: right;
+    padding-right: 16px;
+    align-items: center;
+    height: var(--header-height);
+    background-color: #FFFFFFB3;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 2px 5px 10px 0 #4145581a, 1px 2px 6px 0 #00000033;
+    z-index: 50;
+}
+
+.adminLogout {
+    font-style: italic;
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+.adminLogout::after {
+    content: "\f2f5";
+    font-family: FontAwesome;
+    padding-left: 6px;
+}
+.adminLogout:hover {
+    color: blue;
+}
+
+

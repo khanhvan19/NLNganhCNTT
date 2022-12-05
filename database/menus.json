@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "634e333ad902d4d98a490174"
+  },
+  "name": "Văn học",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666069306218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670114843463"
+    }
+  },
+  "__v": 0,
+  "sub": [
+    {
+      "name": "Tiểu thuyết",
+      "show": true,
+      "_id": {
+        "$oid": "638becc00aed0e9858e0e8ee"
+      }
+    },
+    {
+      "name": "Truyện ngắn",
+      "show": true,
+      "_id": {
+        "$oid": "638becf60aed0e9858e0e968"
+      }
+    },
+    {
+      "name": "Tác giả-Tác phẩm",
+      "show": true,
+      "_id": {
+        "$oid": "638bed1e0aed0e9858e0e96e"
+      }
+    },
+    {
+      "name": "Thơ ca",
+      "show": true,
+      "_id": {
+        "$oid": "638bed2c0aed0e9858e0e976"
+      }
+    }
+  ],
+  "show": true
+},{
+  "_id": {
+    "$oid": "6356b11f26fd991ab38d350e"
+  },
+  "name": "Thiếu nhi",
+  "sub": [
+    {
+      "name": "Truyện tranh",
+      "show": true,
+      "_id": {
+        "$oid": "638bed3f0aed0e9858e0e980"
+      }
+    },
+    {
+      "name": "Đạo đức-Kỹ năng",
+      "show": true,
+      "_id": {
+        "$oid": "638bed610aed0e9858e0e988"
+      }
+    },
+    {
+      "name": "Tô màu-Luyện chữ",
+      "show": true,
+      "_id": {
+        "$oid": "638bee330aed0e9858e0e9c3"
+      }
+    },
+    {
+      "name": "Truyện cho bé",
+      "show": true,
+      "_id": {
+        "$oid": "638bee490aed0e9858e0e9cf"
+      }
+    }
+  ],
+  "show": true,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670114889864"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360b8b74a928e73c0b9e132"
+  },
+  "name": "Kinh tế",
+  "sub": [
+    {
+      "name": "Bài học kinh doanh",
+      "show": true,
+      "_id": {
+        "$oid": "638bee730aed0e9858e0e9e6"
+      }
+    },
+    {
+      "show": true,
+      "_id": {
+        "$oid": "638bee980aed0e9858e0e9fe"
+      },
+      "name": "Khởi nghiệp, làm giàu"
+    },
+    {
+      "name": "Tài chính-Nhân lực",
+      "show": true,
+      "_id": {
+        "$oid": "638beed40aed0e9858e0ea2d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283127521"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115028664"
+    }
+  },
+  "__v": 0,
+  "show": true
+},{
+  "_id": {
+    "$oid": "638bebde0aed0e9858e0e844"
+  },
+  "name": "Kỹ năng sống",
+  "sub": [
+    {
+      "name": "Kỹ năng mềm",
+      "show": true,
+      "_id": {
+        "$oid": "638beeea0aed0e9858e0ea3d"
+      }
+    },
+    {
+      "name": "Nghệ thuật sống đẹp",
+      "show": true,
+      "_id": {
+        "$oid": "638bef000aed0e9858e0ea4c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114270881"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115072389"
+    }
+  },
+  "__v": 0,
+  "show": true
+},{
+  "_id": {
+    "$oid": "638bec010aed0e9858e0e85b"
+  },
+  "name": "Giáo khoa - Tham khảo",
+  "show": true,
+  "sub": [
+    {
+      "name": "Sách giáo khoa",
+      "show": true,
+      "_id": {
+        "$oid": "638bef0f0aed0e9858e0ea5d"
+      }
+    },
+    {
+      "name": "Sách tham khảo",
+      "show": true,
+      "_id": {
+        "$oid": "638bef1b0aed0e9858e0ea6e"
+      }
+    },
+    {
+      "name": "Đại học",
+      "show": true,
+      "_id": {
+        "$oid": "638bef2e0aed0e9858e0ea81"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114305160"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115118530"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638bec120aed0e9858e0e867"
+  },
+  "name": "Sách chuyên ngành",
+  "show": true,
+  "sub": [
+    {
+      "name": "Công nghệ thông tin",
+      "show": true,
+      "_id": {
+        "$oid": "638bef440aed0e9858e0ea96"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114322706"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115140418"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638bec200aed0e9858e0e873"
+  },
+  "name": "Gia Đình",
+  "sub": [
+    {
+      "name": "Nấu ăn-Dinh dưỡng",
+      "show": true,
+      "_id": {
+        "$oid": "638bef5a0aed0e9858e0eaaa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114336053"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115162568"
+    }
+  },
+  "__v": 0,
+  "show": true
+},{
+  "_id": {
+    "$oid": "638bec2c0aed0e9858e0e87f"
+  },
+  "name": "Văn hóa - Du lịch",
+  "sub": [
+    {
+      "name": "Du lịch",
+      "show": true,
+      "_id": {
+        "$oid": "638bef6b0aed0e9858e0eabf"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114348058"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115179612"
+    }
+  },
+  "__v": 0,
+  "show": true
+},{
+  "_id": {
+    "$oid": "638bec420aed0e9858e0e896"
+  },
+  "name": "Thể thao - Giải trí",
+  "show": true,
+  "sub": [
+    {
+      "name": "Thể thao",
+      "show": true,
+      "_id": {
+        "$oid": "638bef7d0aed0e9858e0ead5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114370184"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115197196"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638bec590aed0e9858e0e8b8"
+  },
+  "name": "Báo - Tạp chí",
+  "sub": [
+    {
+      "name": "Tạp chí",
+      "show": false,
+      "_id": {
+        "$oid": "638bef980aed0e9858e0eaec"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670114393749"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670115224603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c0c72121c783b48a638a2"
+  },
+  "name": "NGUYEN KHANH VAN",
+  "show": true,
+  "sub": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670122610100"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670122610100"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c528d121c783b48a63e1c"
+  },
+  "show": true,
+  "sub": [
+    {
+      "name": "Demo danh mục con",
+      "_id": {
+        "$oid": "638c53b0121c783b48a63e8f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670140557732"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670140848567"
+    }
+  },
+  "__v": 0,
+  "name": "Danh mục DEMO chỉnh sửa"
+}]

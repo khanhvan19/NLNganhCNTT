@@ -1,0 +1,105 @@
+.prodName {
+    color: var(--primary-text);
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 1.1;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+
+.prodPrice {
+    line-height: 1;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--error-color);
+}
+
+.changeQuantity {
+    display: flex;
+    border-radius: 0.25rem;
+    overflow: hidden;
+    border: 1px solid var(--primary-text);
+}
+
+.changeQuantity button {
+    padding: 0.125rem 0.25rem;
+    color: var(--primary-text);
+}
+
+.changeQuantity input{
+    width: 40px;
+    color: var(--secondary-text);
+    text-align: center;
+    border-left: 1px solid var(--primary-text);
+    border-right: 1px solid var(--primary-text);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.rightSide > *{
+    position: sticky;
+    position: -webkit-sticky;
+    top: var(--header-height);
+}
+
+.addressLable {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    color: gray;
+    font-size: 17px;
+    line-height: 1;
+    margin-bottom: 1rem;
+}
+
+.addressLable span {
+    cursor: pointer;
+    color: var(--primary-text);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.address > *:first-child {
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+}
+
+.address > *:last-child {
+    line-height: 1.1;
+    font-size: 15px;
+}
+
+.totalPrice {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 0.5rem;
+    padding: 0.75rem 0;
+    font-weight: 500;
+    border-top: 1px solid gray;
+}
+
+.totalPrice strong {
+    color: var(--error-color);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.btnCheckout {
+    background-color: var(--error-color);
+    color: white;
+    width: 100%;
+    border-radius: 0.75rem;
+    padding: 0.5rem 0;
+}
+
+.btnCheckout:disabled {
+    background-color: gray;
+}

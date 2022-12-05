@@ -1,0 +1,19 @@
+.container {
+    width: 260px;
+    position: fixed;
+    padding: 16px 16px 16px 24px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #0A192F;
+    color: white;
+}
+
+.container + * {
+    margin-left: 260px;
+}
+
+.container span a {
+    padding-left: 0px;
+}
+

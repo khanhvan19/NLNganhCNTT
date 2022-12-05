@@ -1,0 +1,94 @@
+.breadcrumbs {
+    padding: 0.5rem 0;
+}
+
+.breadcrumbs > *{
+    color: var(--secondary-text);
+    font-weight: 600;
+}
+
+/* .breadcrumbs > *:hover{
+    color: var(--primary-text);
+} */
+
+.breadcrumbs > *:last-child {
+    color: gray;
+}
+
+.breadcrumbs > *:not(:last-child):after {
+    content: "\f054";
+    font-family: FontAwesome;
+    margin: 0.5rem;
+    color: var(--secondary-text);
+}
+
+.mainContainer {
+    display: flex;
+}
+
+.filterContainer {
+    width: 200px;
+    border-radius: 0.5rem;
+    margin-right: var(--bs-gutter-x);
+    background-color: var(--primary-bg);
+}
+
+.filterContent { 
+    position: sticky;
+    position: -webkit-sticky;
+    top: var(--header-height);
+    padding: 0.75rem;
+}
+
+.productContainer {
+    flex: 1;
+    background-color: var(--primary-bg);
+    border-radius: 0.5rem;
+}
+
+.productsIsEmpty {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+    color: #B0B0B0;
+}
+
+/*  */
+.filterChipContainer {
+    margin: 0 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filterChip {
+    font-size: 0.875rem;
+    line-height: 1;
+    font-weight: 500;
+    margin-right: 0.75rem;
+    margin-bottom: 0.75rem;
+    color: var(--secondary-bg);
+    background-color: var(--primary-text);
+    border-radius: var(--border-radius);
+}
+
+.filterChip:first-child {
+    cursor: pointer;
+}
+
+.filterChip[data-active="false"]:first-child {
+    background-color: gray;
+}
+
+.filterChip > span {
+    display: inline-block;
+    margin: 0.25rem 0.375rem 0.25rem 0.5rem;
+}
+
+.filterChip > button {
+    height: 17.5px;
+    margin-right: 2.5px;
+    color: var(--secondary-text);
+    background-color: var(--header-bg);
+    border-radius: var(--border-radius);
+}
+

@@ -1,0 +1,13 @@
+.tabs div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tabs div > * {
+    flex: 1;
+} 
+
+.btnDetail {
+    color: var(--primary-text);
+    font-size: 1.125rem;
+}

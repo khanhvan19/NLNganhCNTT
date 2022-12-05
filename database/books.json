@@ -1,0 +1,582 @@
+[{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583df"
+  },
+  "name": "Mắt biếc",
+  "images": [
+    "/images/sach/matbiec.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 110000,
+  "priceEntry": 120000,
+  "discount": 10,
+  "quantity": 200,
+  "sold": 999,
+  "star": 5,
+  "freeShip": false,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Mắt biếc là một tác phẩm được nhiều người bình chọn là hay nhất của nhà văn Nguyễn Nhật Ánh. Tác phẩm này cũng đã được dịch giả Kato Sakae dịch sang tiếng Nhật để giới thiệu với độc giả Nhật Bản.\nTôi gửi tình yêu cho mùa hè, nhưng mùa hè không giữ nổi. Mùa hè chỉ biết ra hoa, phượng đỏ sân trường và tiếng ve nỉ non trong lá. Mùa hè ngây ngô, giống như tôi vậy. Nó chẳng làm được những điều tôi ký thác. Nó để Hà Lan đốt tôi, đốt rụi. Trái tim tôi cháy thành tro, rơi vãi trên đường về.\n… Bởi sự trong sáng của một tình cảm, bởi cái kết thúc buồn, rất buồn khi xuyên suốt câu chuyện vẫn là những điều vui, buồn lẫn lộn…"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670141243045"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e0"
+  },
+  "name": "Cờ Vua Những Bước Đi Đầu Tiên Của Kiện Tướng",
+  "images": [
+    "/images/sach/matbiec.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 120000,
+  "priceEntry": 120000,
+  "discount": 8,
+  "quantity": 200,
+  "sold": 28,
+  "star": 3.5,
+  "freeShip": false,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e1"
+  },
+  "name": "Binh Pháp Tôn Tử Và Nghệ Thuật Kiếm Tiền",
+  "images": [
+    "/images/sach/binhphaptontu.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 189000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 12,
+  "star": 2.7,
+  "freeShip": true,
+  "active": true,
+  "menu": "Kinh tế",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e2"
+  },
+  "name": "Bí Mật Của Phan Thiên Ân",
+  "images": [
+    "/images/sach/Bimatphamthienan.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 119000,
+  "priceEntry": 120000,
+  "discount": 10,
+  "quantity": 200,
+  "sold": 0,
+  "star": 3.2,
+  "freeShip": true,
+  "active": true,
+  "menu": "Kinh tế",
+  "type": "Truyện tranh",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e3"
+  },
+  "name": "12 Quy Tắc Lãnh Đạo Từ Seal",
+  "images": [
+    "/images/sach/12quytactusell.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 128000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 21,
+  "star": 4.7,
+  "freeShip": false,
+  "active": true,
+  "menu": "Kinh tế",
+  "type": "Truyện tranh",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e4"
+  },
+  "name": "7 Phương Pháp Đầu Tư Warren Buffet",
+  "images": [
+    "/images/sach/7ppwarrenbufffelt.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 102000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 27,
+  "star": 2.7,
+  "freeShip": false,
+  "active": true,
+  "menu": "Kinh tế",
+  "type": "Truyện tranh",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e5"
+  },
+  "name": "Nữ Sinh",
+  "images": [
+    "/images/sach/nu_sinh_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 189000,
+  "priceEntry": 120000,
+  "discount": 10,
+  "quantity": 200,
+  "sold": 27,
+  "star": 2.8,
+  "freeShip": true,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e6"
+  },
+  "name": "Buổi Chiều Windows",
+  "images": [
+    "/images/sach/buoi_chieu_windows_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 99000,
+  "priceEntry": 120000,
+  "discount": 9,
+  "quantity": 200,
+  "sold": 273,
+  "star": 2.9,
+  "freeShip": true,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e7"
+  },
+  "name": "Chú Bé Rắc Rối",
+  "images": [
+    "/images/sach/chu_be_rac_roi_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 129000,
+  "priceEntry": 120000,
+  "discount": 10,
+  "quantity": 200,
+  "sold": 37,
+  "star": 1.2,
+  "freeShip": false,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e8"
+  },
+  "name": "Lá Nằm Trong Lá",
+  "images": [
+    "/images/sach/la_nam_trong_la_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 127000,
+  "priceEntry": 120000,
+  "discount": 12,
+  "quantity": 200,
+  "sold": 0,
+  "star": 2.3,
+  "freeShip": false,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Tiểu thuyết",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583e9"
+  },
+  "name": "Hạ Đỏ",
+  "images": [
+    "/images/sach/ha-do-nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 1220000,
+  "priceEntry": 120000,
+  "discount": 9,
+  "quantity": 200,
+  "sold": 32,
+  "star": 3.5,
+  "freeShip": true,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Thơ ca",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583ea"
+  },
+  "name": "Bong Bóng Lên Trời",
+  "images": [
+    "/images/sach/bong-bong-len-troi_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 790000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 8,
+  "star": 3,
+  "freeShip": true,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Thơ ca",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583eb"
+  },
+  "name": "Trước Vòng Chung Kết",
+  "images": [
+    "/images/sach/truoc_tran_ck_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 112000,
+  "priceEntry": 120000,
+  "discount": 9,
+  "quantity": 200,
+  "sold": 28,
+  "star": 2,
+  "freeShip": true,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Truyện ngắn",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583ec"
+  },
+  "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+  "images": [
+    "/images/sach/tthvtcx-nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 1290000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 37,
+  "star": 0.5,
+  "freeShip": false,
+  "active": true,
+  "menu": "Văn học",
+  "type": "Truyện ngắn",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583ed"
+  },
+  "name": "Kính Vạn Hoa Tập 1",
+  "images": [
+    "/images/sach/kinh_van_hoa_t1_nna.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 97000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 92,
+  "star": 2.9,
+  "freeShip": true,
+  "active": true,
+  "menu": "Thiếu nhi",
+  "type": "Truyện tranh",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583ee"
+  },
+  "name": "Người Lạ Bên Bờ Biển",
+  "images": [
+    "/images/sach/nguoi_la_ben_bo_bien.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 110000,
+  "priceEntry": 120000,
+  "discount": 12,
+  "quantity": 200,
+  "sold": 99,
+  "star": 4.8,
+  "freeShip": false,
+  "active": true,
+  "menu": "Thiếu nhi",
+  "type": "Truyện tranh",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583ef"
+  },
+  "name": "Số đỏ",
+  "images": [
+    "/images/sach/so_do.png",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 1700000,
+  "priceEntry": 120000,
+  "discount": 0,
+  "quantity": 200,
+  "sold": 29,
+  "star": 4,
+  "freeShip": true,
+  "active": true,
+  "menu": "Thiếu nhi",
+  "type": "Đạo đức-Kỹ năng",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+},{
+  "_id": {
+    "$oid": "638bf70050f70a818f5583f0"
+  },
+  "name": "Tắt đèn",
+  "images": [
+    "/images/sach/tat_den.jpg",
+    "/images/sach/matbiec1.jpg",
+    "/images/sach/matbiec2.jpg",
+    "/images/sach/matbiec3.jpg"
+  ],
+  "author": "Vũ Trọng",
+  "publisher": "NXB Trẻ",
+  "price": 59000,
+  "priceEntry": 120000,
+  "discount": 9,
+  "quantity": 200,
+  "sold": 929,
+  "star": 3.5,
+  "freeShip": false,
+  "active": true,
+  "menu": "Thiếu nhi",
+  "type": "Đạo đức-Kỹ năng",
+  "info": {
+    "publishYear": 2022,
+    "language": "Tiếng việt",
+    "weight": 300,
+    "size": "16 x 30 cm",
+    "page": 289,
+    "formality": "Bìa cứng",
+    "description": "Chừa viết..."
+  }
+}]

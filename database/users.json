@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "633e8a4c2bd3c68881e53065"
+  },
+  "email": "khanhvan@gmail.com",
+  "account": "khanhvan",
+  "password": "$2a$10$CCqD6OV.3f1tj2nNKrwrPuA93ijvew5NjYN7FfG9W3V1shcTL.8Ji",
+  "avt": "/images/user1.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665043020597"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670141924590"
+    }
+  },
+  "__v": 0,
+  "name": "Nguyễn Khánh Văn",
+  "phone": "0987654328"
+},{
+  "_id": {
+    "$oid": "633ec79ba83264b64cb46cf8"
+  },
+  "email": "khanhvan1@gmail.com",
+  "account": "vankhanh",
+  "password": "$2a$10$CCqD6OV.3f1tj2nNKrwrPuA93ijvew5NjYN7FfG9W3V1shcTL.8Ji",
+  "avt": "/images/user1.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665058715701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670141874351"
+    }
+  },
+  "__v": 0,
+  "name": "Nguyen Van Khanh"
+},{
+  "_id": {
+    "$oid": "638808d0d3cc5e0c397fd7be"
+  },
+  "email": "vankhanh@gmail.com",
+  "account": "khanhvan1",
+  "password": "$2a$10$xabS9P51u1Pc3AS61orJBun0NgZ29CJ49RaaLVZGoDVZ2hEZB/OCK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669859536050"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670141861185"
+    }
+  },
+  "__v": 0,
+  "name": "Khánh Văn",
+  "phone": "0123456789"
+},{
+  "_id": {
+    "$oid": "63880919d3cc5e0c397fd7c2"
+  },
+  "email": "van@gmail.com",
+  "account": "vankhanh1",
+  "password": "$2a$10$NmfK.DO2/098GfFC6KZty.s0gqOatiCLlAoNCVHmCa2EFP6QvDgly",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669859609644"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670141842869"
+    }
+  },
+  "__v": 0,
+  "name": "NGUYEN KHANH VAN",
+  "phone": "0987654321"
+}]
